@@ -83,6 +83,7 @@ kitty +list-fonts | grep -i victor
 - `Ctrl+Shift+F5` - Reload configuration
 - `Ctrl+Alt+G` - Open Lazygit in an overlay
 - `Ctrl+Alt+E` - Open Neovim in an overlay
+- `Ctrl+Alt+O` - Open OpenCode in an overlay
 - `Ctrl+Alt+Y` - Open Yazi in an overlay
 - `Ctrl+Alt+B` - Open btop in an overlay
 
