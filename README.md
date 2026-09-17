@@ -81,6 +81,8 @@ kitty +list-fonts | grep -i victor
 - `Ctrl+Shift+Plus/Minus` - Adjust font size
 - `Ctrl+Shift+Backspace` - Reset font size
 - `Ctrl+Shift+F5` - Reload configuration
+- `Ctrl+Alt+O` - Open OpenCode in an overlay
+  at the active window's working directory.
 
 ### Theme Integration
 The configuration uses a custom Catppuccin Mocha theme that provides:
